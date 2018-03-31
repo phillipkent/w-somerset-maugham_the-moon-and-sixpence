@@ -22,19 +22,24 @@
 		<dc:subject id="subject-1">England -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Psychological fiction</dc:subject>
 		<dc:subject id="subject-3">Painters -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Tahiti (French Polynesia : Island) -- Fiction</dc:subject>
+		<dc:subject id="subject-4">France -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Tahiti (French Polynesia : Island) -- Fiction</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/222</meta>
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/222</meta>
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/222</meta>
 		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/222</meta>
+		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/222</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">The fictional life story of an imaginary post-impressionist painter in France and Tahiti.</dc:description>
+		<dc:description id="description">The fictional life story of an imaginary post-impressionist painter in England, France and Tahiti.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONGDESCRIPTION </meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+		  &lt;p&gt;&lt;i&gt;The Moon and Sixpence&lt;/i&gt; is a fictional study of the 'modern artist as genius' first published in 1919. Although it is often described as being based on the life of the painter, Paul Gauguin, Maugham actually selects a few key elements of Gauguin's life and crafts them into the life story of Charles Strickland, a sociopathic and destructive artistic genius.&lt;/p&gt;
+		  &lt;p&gt;Strickland is a middle-aged, unremarkable English stockbroker in London in the late nineteenth century. Suddenly seized by a desire to paint, he deserts his wife and children and moves to Paris where he lives a poverty-stricken life, to which he himself is indifferent since his only desire is to express himself through painting. Having destroyed the life of a fellow painter, by causing the infidelity and suicide of the painter's wife, Strickland leaves Paris and ends up in the Pacific island of Tahiti. There, he attains some kind of stability, living in isolation with a native wife and their children, quietly painting and mostly unappreciated by the island community. He contracts the disease of leprosy, and in a final burst of creativity he paints his magnum opus on the walls of his house, which he instructs his wife to burn down after his death.&lt;/p&gt;
+		  &lt;p&gt;The novel is written in the voice of an English writer, who encounters Strickland in a series of episodes, initially in London; then several times in Paris; and finally in Tahiti, several years after Stickland's death. From these episodes the narrator attempts to construct the path of the artist's life and how it was driven by creative genius.&lt;/p&gt;
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/222</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Moon_and_Sixpence</meta>
@@ -133,7 +138,7 @@
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>	
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
